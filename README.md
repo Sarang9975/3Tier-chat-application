@@ -1,3 +1,22 @@
+# 3-Tier Chat Application
+
+A modern real-time chat application built with Node.js, React, and MongoDB.
+
+## Features
+
+- Real-time messaging with Socket.io
+- User authentication and authorization
+- File sharing capabilities
+- Responsive design with Tailwind CSS
+- Docker containerization
+- Kubernetes deployment support
+
+## Recent Updates
+
+- Enhanced user interface components
+- Improved error handling
+- Better performance optimization
+
 ## 📝 Introduction:
 
 This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.
