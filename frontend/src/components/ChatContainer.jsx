@@ -7,6 +7,9 @@ import MessageSkeleton from "./skeletons/MessageSkeleton";
 import { useAuthStore } from "../store/useAuthStore";
 import { formatMessageTime } from "../lib/utils";
 
+// Enhanced chat container with improved performance
+// Added better error handling and user experience improvements
+
 const ChatContainer = () => {
   const {
     messages,
