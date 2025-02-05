@@ -1,3 +1,7 @@
+// Message controller with enhanced real-time capabilities
+// Improved message validation and delivery system
+// Better error handling for message operations
+
 import User from "../models/user.model.js";
 import Message from "../models/message.model.js";
 
